@@ -1,0 +1,1 @@
+<h1>Solved JavaScript tasks from https://javascript.info/</h1>
