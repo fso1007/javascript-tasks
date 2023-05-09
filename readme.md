@@ -4,4 +4,4 @@
 
 - JAVASCRIPT
 
-<p>You can find these exercises and much more at<a href="https://javascript.info/">javascript.info</a>!</p>
+<p>You can find these exercises and much more at <a href="https://javascript.info/">javascript.info</a>!</p>
