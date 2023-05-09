@@ -7,20 +7,19 @@ See the sandbox code for the complete usage example.
 
 P.S. You can use either a closure or the function property to keep the current count. Or write both variants.*/
 
+
 function makeCounter() {
   let count = 0;
 
   function counter() {
-    return count++;
+    return count++;  
   }
 
   counter.set = value => count = value;
-
   counter.decrease = () => count--;
 
   return counter;
 }
-
 
 let counter = makeCounter();
 
